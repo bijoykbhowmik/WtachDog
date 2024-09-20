@@ -1,0 +1,7 @@
+For Windows Compile code:
+g++ watchdog.cpp config_loader.cpp process_monitor.cpp -o watchdog -lpthread
+
+
+
+For linux Compile:
+./watchdog
